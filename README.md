@@ -26,4 +26,4 @@ Welcome to my portfolio website! This is a personal project where I showcase my 
 Feel free to connect with me:
 
 Email: Ch.Aqeel7584646@gmail.com
-GitHub: aqeelhassan786/Portfolio-Website.git
+GitHub: https://github.com/aqeelhassan786
