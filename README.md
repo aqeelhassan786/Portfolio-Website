@@ -22,8 +22,6 @@ Welcome to my portfolio website! This is a personal project where I showcase my 
    ```bash
    git clone https://github.com/aqeelhassan786/Portfolio-Website.git
 
-cd --Portfolio-Website
-
 ## Contact
 Feel free to connect with me:
 
