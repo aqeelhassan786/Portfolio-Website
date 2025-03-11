@@ -20,4 +20,4 @@ Welcome to my portfolio website! This is a personal project where I showcase my 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/aqeelhassan786/Portfolio-Website.git
+   git clone https://portfolio-website125.netlify.app/
